@@ -1,0 +1,182 @@
+
+.flexbox-parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;  
+    align-items: auto;
+    align-content: start;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 28%, rgba(0,212,255,1) 69%);  
+    height: 100%;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.product{
+    margin-top: 20px;
+    height: 350px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.product1-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product2-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product3-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product4-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product5-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product6-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product7-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product8-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product9-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product10-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product11-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product12-img{
+    width: 250px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    background-image: url(resources/product12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.product-text{
+    margin: auto;
+    height: 50px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+.product-text h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.product-text span{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.product button{
+    display: block;
+    margin: auto;
+    appearance: none;
+    background: transparent;
+    border: 0;
+    color: black;
+    background: violet;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1;
+    padding: 1em 1.5em;
+    border-radius: 10px;
+}
+
